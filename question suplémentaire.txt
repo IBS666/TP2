@@ -1,0 +1,1 @@
+il n'est pas nécessaire de creé les méthodes getter et seeter pour accéder ou modifier les attributs qui sont déclaré commme public
